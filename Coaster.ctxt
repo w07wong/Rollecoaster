@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nArcs\ nLoops\ nCorks
+comment0.target=Coaster(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ genOrder()
+numComments=2
