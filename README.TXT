@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Rollercoaster
+PURPOSE OF PROJECT: To draw a randomly generated rollercoaster that obeys the laws of physics.  Will give user all the measurements in meters and seconds on a table.  Was for a physics project where students were to design a rollercoaster on paper.  Unfortunately, deadlines limited how far I got with this project before using pencil and paper instead.
+VERSION or DATE: 1.0.0
+HOW TO START THIS PROJECT: Run
+AUTHORS: William Wong
